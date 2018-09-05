@@ -1,5 +1,5 @@
 # Description
-Implementation of DnCNN, 'Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising' TIP2017, paper.
+Implementation of DnCNN, *'Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising' TIP2017*, paper.
 Original code is [here](https://github.com/crisb-DUT/DnCNN-tensorflow) but this code covers a Gaussian denoiser.
 So I fixed it for JPEG deblocking(only for quality factor : 10).
 
