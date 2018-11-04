@@ -20,7 +20,7 @@ So I fixed it for JPEG deblocking(only for quality factor : 10).
 ## Usage
 ### Train
 ```
-$ python generate_data.py
+$ python generate_patches.py
 $ python main.py
 ```
 
